@@ -1,4 +1,4 @@
-GOOGLE_API = "AIzaSyDGPJ-tePfXppA69rLUalbv31NSfR88CFA"
+GOOGLE_API = ""
 
 import requests
 import json
